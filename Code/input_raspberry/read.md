@@ -1,3 +1,4 @@
+## Notes 
 The XML files were taken from the classifiers on the following link:
 https://github.com/adobe/SimpleSensor/tree/master/simplesensor/collection_modules/demographic_camera/classifiers/haarcascades
 

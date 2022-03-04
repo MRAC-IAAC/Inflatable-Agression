@@ -23,7 +23,7 @@ The project comprises of two parts: input from Raspberry Pi Camera + Raspberry P
 
   ### Requirements/Setup for Output
   To test air pressure and the limits of the material (in this case, balloons), we used buttons. The wiring and setup of the buttons are separated in from the relay in the way that other input signals can be received later on. Bill of Materials are provided on the folders above for the prototype. Note that some requirements may change depending on the solenoid (such as tube sizes), but it is ideal to purchase a DC vacuum pump with the same voltage. 
-  ![hardware_schematic-01](https://user-images.githubusercontent.com/96722124/156730054-d4a54719-0c00-4e52-8957-4151706456c9.png)
+  ![hardware_schematic-01](https://user-images.githubusercontent.com/96722124/156730054-d4a54719-0c00-4e52-8957-4151706456c9.png|width ="1378" height = "1024")
   
   
   
